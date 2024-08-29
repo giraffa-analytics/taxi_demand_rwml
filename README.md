@@ -1,2 +1,3 @@
-# taxi_demand_rwml
-Batch scoring system
+# Central Park hourly taxi demand prediction service
+
+Batch scoring system.
