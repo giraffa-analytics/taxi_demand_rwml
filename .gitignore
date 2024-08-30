@@ -1,2 +1,4 @@
 .env
 venv_taxi
+data
+src/__pycache__/
